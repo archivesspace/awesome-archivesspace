@@ -85,13 +85,32 @@ If you are migrating from Archivists Toolkit, you may find these links useful:
 * Yale University ArchivesSpace Migration:
     - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
     - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale's migration to ArchivesSpace.
-* ArchivesSpace Tools:
-    - [Migration Tools &amp; Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
+* [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
 * Bits & Bytes (Patrick Galligan, Rockefeller Archive Center): RAC blog posts about ArchivesSpace migration
     - [From AT to ArchivesSpace Part 1: Installation and Cleaning Data for Migration](http://blog.rockarch.org/?p=1265)
     - [From AT to ArchivesSpace Part 2: Migrations and Error Reporting](http://blog.rockarch.org/?p=1289)
     - [From AT to AS Part 3: Training and Customization](http://blog.rockarch.org/?p=1300)
 * [Migrating from Archivists' Toolkit to ArchivesSpace](https://sites.google.com/site/ccdarchivesspace/pacifics-migration-from-at--as) (Eva Guggemos, Pacific University): Report of the stages of Pacific University's migration from AT to ArchivesSpace
+* [Migrating to ArchivesSpace](https://teaspoon-consulting.com/articles/migrating-to-archivesspace.html) (Mark Triggs, Teaspoon Consulting): Migration from Archivists' Toolkit to ArchivesSpace
+    
+### Archon
+If you are Migrating from Archon, you may find these links useful:
+
+* Yale University ArchivesSpace Migration:
+    - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
+    - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale's migration to ArchivesSpace.
 * ArchivesSpace Tools:
     - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
-    - [Migrating to ArchivesSpace](https://teaspoon-consulting.com/articles/migrating-to-archivesspace.html) (Mark Triggs, Teaspoon Consulting): Migration from Archivists' Toolkit to ArchivesSpace
+    - [Archon Migration Tool](https://github.com/archivesspace/archon-migration): ArchivesSpace Github
+    - [Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace muti-sheet Google Doc
+* University of Houston Reports:
+    - [Data in Flight: Preparing Legacy Finding Aids for Migration](http://www.bluetoad.com/publication/?i=469794#%7B%22issue_id%22:469794,%22page%22:0) (Matthew Richardson, Houston Public Library, and Bethany Scott, University of Houston): Discussion of the challenges with migrating from Archon to ArchivesSpace.
+    - [Migration as motivation: upgrading legacy finding aids in preparation for ArchivesSpace](https://uh-ir.tdl.org/uh-ir/bitstream/handle/10657/2014/RichardsonScott_SAA_2017_ASpace_poster_final.pdf?sequence=1&amp;isAllowed=y) (R. Matthew Richardson and Bethany Scott, University of Houston): Poster presentation on migrating from Archon.
+
+### Re:Discovery
+If you are Migrating from Re:Discovery, you may find these links useful:
+
+* Yale University ArchivesSpace Migration:
+    - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
+    - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale&#39;s migration to ArchivesSpace.
+* [Migration Scripts](https://github.com/duspeccoll/migration_scripts) (University of Denver): Migration scripts from Re:Discovery to ArchivesSpace.
