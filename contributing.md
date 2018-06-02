@@ -22,7 +22,7 @@ If you have something awesome to contribute to an awesome list, this is how you 
 
 You'll need a [GitHub account](https://github.com/join)!
 
-Follow the steps below. If you're new to GitHub, you may also want to check out [GitHub's HelloWorld Guide](https://guides.github.com/activities/hello-world/) which walks new users through GitHub basics.
+Follow the steps below. If you're new to GitHub, you may also want to check out [GitHub's Hello World Guide](https://guides.github.com/activities/hello-world/) which walks new users through GitHub basics.
 
 1. Access the awesome list's GitHub page. For example: https://github.com/archivesspace/awesome-archivesspace
 2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
