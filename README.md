@@ -16,12 +16,6 @@ Please help us continue to collect and add relevant sources to Awesome ArchivesS
 
 Awesome ArchivesSpace was initially populated with three categories of resources: Migrations, Plug-ins, and Integrations. Through that work, additional categories of interest were identified:  Implementation, Scripts, and Trainings and Documentation. We encourage the ArchivesSpace community to add links to these categories as well as welcome new category suggestions.
 
-## Not seeing what you need?
-
-Here are some other helpful links:
-* For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
-* ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
-
 ## Table of Contents
 
 * [General Resources](#general-resources)
@@ -31,6 +25,12 @@ Here are some other helpful links:
 * [Integrations](#integrations)
 * [Implementation](#implementation)
 * [APIs and Scripts](#apis-and-scripts)
+
+## Not seeing what you need?
+
+Here are some other helpful links:
+* For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
+* ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
 
 ## Credits and ownership
 
