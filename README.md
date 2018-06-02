@@ -136,3 +136,76 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
 * Smith College resources:
     - [Smith College Github Aspace Data Remediation](https://github.com/smith-special-collections/aspace-data-remediation): Files, tools, and plans for remediating data for migration to ArchivesSpace at Smith.
     - [Smith College Github ASpace Migration - Files, tools, and plans](https://github.com/smith-special-collections/aspace-migration): Files, tools, and plans for bringing legacy data into ArchivesSpace at Smith.
+    
+## Plug-ins
+
+The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing data or exporting data, searching, administration, authentication, and additional front-end and back-end funcationality. Some links may appear in multiple categories.
+
+### Import/Export Data
+
+* [Plugins and Scripts from UNLV](https://github.com/UNLV-Libraries/ArchivesSpace-authority-project) (University of Nevada, Las Vegas Libraries): Includes plugins to use custom PDFs for different repositories, [customization of the default MARCXML export](https://github.com/l3mus/ArchivesSpace-authority-project/tree/master/unlv_marc_exporter), spawn a number of accession records at once into resource records, and an overlay function that that allows for more granular record merging.
+* Harvard ASpace Excel Import plugin](https://github.com/harvard-library/aspace-import-excel) (Harvard Library): Supports the bulk uploading via Excel Spreadsheet of Archival Objects and (optionally) their associated Creator Agents, Top Containers, Subjects, Digital Objects, etc.
+* [Import Agent Records with LCNAF Import Plug-in](https://docs.archivesspace.org/Default.htm#AgentsImportLCNAF.htm) (ArchivesSpace): Information from the ArchivesSpace membership documentation about creating agent records using the Library of Congress Name Authority File plugin.
+* [ArchivesSpace @ NYU: Local Development](https://guides.nyu.edu/archivesspace/development) (New York University): Provides information and access to locally-developed plugins, including an EAD export customization plugin, a plugin for location management (pre-ArchivesSpace v.1.5.0), a MARC record export plugin, and a digitization work order plugin and digital object creation tool.
+* [MOMA EAD Importer](https://github.com/quoideneuf/moma-ead-importer) (Brian Hoffman): Custom ArchivesSpace EAD Importer for MOMA EADs. Theses customizations are specific to version 1.0.9 of ArchivesSpace and may not work with later versions.
+* [Yale EAD Exporter Plugin Example](https://github.com/archivesspace-labs/yale-ead-exporter) (Developer house at code4lib 2015): It shows how to tweak the EAD converter. In this example, Yale wanted to add container barcode\_1 to the EAD container @label attribute with the convention of "LABEL BARCOD" (e.g., "text 1234").
+* [OCLC Import](https://github.com/hudmol/aspace_oclc) (Hudson Molonglo): Search OCLC records and choose which ones to import into ArchivesSpace as Accession records.
+* [Custom MARC Exporter](https://github.com/lorawoodford/custom-marc-exporter) (Lora Woodford): Sample custom MARC exporter demonstrated at the 2018 Code4Lib pre-conference workshop. Enables customizations to MARC exporter for country codes, descriptive cataloging forms, cataloging sources, dates, and locations.
+
+### Search
+
+* [NCSU Search Title Boost](https://github.com/NCSU-Libraries/archivesspace_search_title_boost) (North Carolina State University Libraries): Boosts exact matches on title field - improves precision of search queries from linked record fields (linked agents, subjects, etc.).
+* Search Identifier plugins:
+    - [Search Identifier](https://github.com/duke-libraries/archivesspace-duke-plugins/tree/master/plugins/aspace-search-identifier) (Duke University Libraries): Adds the identifier column to search and advanced search results pages for a number of different records.
+    - [Search Identifier](https://github.com/lyrasis/aspace-search-identifier) (LYRASIS): Adds an identifier column to search and advanced search results pages in the staff interface.
+    - [ArchivesSpace Advanced Search Extension](https://github.com/hudmol/extended_advanced_search) (Hudson Molonglo): This is an ArchivesSpace plugin to extend the advanced search to index and allow searching on a series of record fields as specified by Yale University.
+
+### Administration
+
+* [ArchivesSpace System Performance Monitor](https://github.com/hudmol/system_performance_monitor) (Hudson Molongo): This plugin detects configuration issues that might be causing your ArchivesSpace instance to be running a little more sluggishly than it should.
+* [ArchivesSpace Data Checker plugin](https://github.com/hudmol/asck) (Hudson Molonglo): This plugin introduces a new background job that checks the data in an ArchivesSpace instance. It reports on the number of records found and how many are invalid or throw errors.
+* [A Plug-in Manager Plug-in for ArchivesSpace](https://github.com/hudmol/plugman) (Hudson Molonglo): Lists installed plugins and provides a directory listing of published plugins.
+* [Accessions summary reports](https://github.com/hudmol/accessions_summary_reports) (Hudson Molonglo): An ArchivesSpace plugin that provides summary reports on Accessions.
+* [Extended Reports](https://github.com/quoideneuf/extended_reports) (Brian Hoffman): Add customized reports to ArchivesSpace.
+
+### Authentication
+
+* [Oauth plug-in](https://github.com/lyrasis/aspace-oauth) (Mark Custer/LYRASIS): Configure ArchivesSpace as a service provider for oauth user authentication.
+* [ArchivesSpace authentication with OmniAuth/CAS](https://github.com/dartmouth-dltg/aspace-omniauth-cas) (Dartmouth University): An ArchivesSpace plugin to provide OmniAuth/CAS single-sign-on authentication.
+
+### Additional Back-end Functionality
+
+* [NCSU Delete Button Context Plugin](https://github.com/NCSU-Libraries/archivesspace_delete_button_context_plugin) (North Carolina State University Libraries): Changes the label on the 'Delete' button in the record toolbar to indicate the type of record being deleted.
+* [Payments Module](https://github.com/hudmol/payments_module) (Hudson Molonglo): Payments subrecord for accession records.
+* Atlas Systems: Aeon/ArchivesSpace Plugins
+    - [ArchivesSpace-Aeon Fulfillment Plugin](https://github.com/hudmol/ArchivesSpace-Aeon-Fulfillment-Plugin): Allows patrons to submit requests from ArchivesSpace PUI to Aeon.
+    - [Aeon ArchivesSpace Client Addon](https://github.com/AtlasSystems/AeonArchivesSpaceClientAddon): This addon is used to integrate the ArchivesSpace staff interface into the Aeon Client request form so that staff can search the records of their ArchivesSpace instance and import details into Aeon requests.
+* [Alma/ArchivesSpace Integrations Plugin](https://github.com/duspeccoll/alma_integrations) (University of Denver): Built on the Top Container functionality...based on the resource record provided by the user, the integrations will perform the following API calls: Check for a BIB with the Resource's MMS ID; check for holdings associated with the BIB identified by that MMS ID; add new holdings; create a new BIB record if no MMS ID is present.
+* Generating Accession identifiers:
+    - [Custom Accession Identifiers](https://github.com/quoideneuf/aspace_yale_accessions) (Brian Hoffman): Creating custom accession identifiers. Users with &quot;Manage Repository&quot; permissions will see a new menu item in the Repository settings menu (click the gear icon to the right of the selected repository). Use the "Department Codes" setting to add and remove codes for your Repository. Department codes will appear in a dropdown for the second part of the Accession identifier. The first and third sections of the identifier will be system-generated upon saving the record. The fourth section will be removed.
+    - [Custom Accession Identifiers](https://github.com/uvalib/generate_accession_identifiers) (University of Virginia, forked from Yale/Hudson Molonglo plugin): This is a modification of the original generate-accession-identifiers plugin with two significant differences.
+    - [Next Resource Identifier plugin](https://github.com/duspeccoll/next_resource) (University of Denver Libraries): ArchivesSpace plugin to determine the next collection number in a sequence.
+* [University of Denver's local ArchivesSpace plugins](https://github.com/duspeccoll/plugins_local) (University of Denver Libraries): Includes branding; extending the resource\_tree content model to display the component IDs in the third column, for easier tree navigation for our archivists; extending the public search result summary to provide additional metadata about Resources, Archival Objects, and Digital Objects; adding rows to the component toolbar for Archival Objects to allow for MODS export and linking to digital objects.
+* [Timewalk plug-in](https://github.com/alexduryee/timewalk) (Alex Duryee): An automated date parser plugin for ArchivesSpace.
+* [Information about Plugins](https://github.com/archivesspace/archivesspace/blob/master/plugins/PLUGINS_README.md) (ArchivesSpace): ReadMe file from ArchivesSpace plugins page on Github.
+* [Writing an ArchivesSpace plugin](https://teaspoon-consulting.com/articles/archivesspace-plugins.html) (Mark Triggs, Teaspoon Consulting): "ArchivesSpace allows you to write custom code to add new features, or change the behaviour of existing features. This code takes the form of a _plugin_: you structure your code according to certain conventions and it is automatically loaded when the ArchivesSpace system starts up. This article looks at the source code behind a plugin for generating accession identifiers."
+* [css stylesheet](https://github.com/YaleArchivesSpace/print) (Yale University): for the staff interface.
+* [ArchivesSpace Assets Reroute Plugin](https://github.com/archivesspace-labs/assets_reroute) (Mark Triggs, Hudson Molonglo): This is a plugin to reroute the Rails asset pipeline in the ASpace frontend and public UI to use plugin assets. It's specifically designed to allow plugin assets to be served by Tomcat7.
+* [Container Management](https://github.com/hudmol/container_management) (Hudson Molonglo): ArchivesSpace plugin to add a new container type to ArchivesSpace. This plugin is compatible with ArchivesSpace v1.1.x.
+* [Yale ArchivesSpace ILS Integration](https://github.com/hudmol/aspace_yale_ils_integration) (Hudson Molonglo): ArchivesSpace plugin to add support for integrating Yale's ILS.
+* [Yale Accessions plugin](https://github.com/quoideneuf/aspace_yale_accessions) (Brian Hoffman): Creates custom accession identifiers for Yale.
+* [Yale MARC XML](https://github.com/hudmol/yale_marcxml2accession_extras) (Hudson Molonglo): Additional MARC XML for accession mappings for Yale.
+* [Default text for notes](https://github.com/hudmol/default_text_for_notes) (Hudson Molonglo): ArchivesSpace plugin to specify default text for selected fields. This plugin was developed for the National Library of Australia.
+* [Yale Materials Types](https://github.com/hudmol/material_types) (Hudson Molonglo): When this plugin is installed, you will see a new Material Types subrecord form in the Accessions form. After adding a Material Types subrecord to an Accession, you can check the material types that apply to the Accession. You can set default Material Types by clicking 'My Repository Preferences'; in the user dropdown menu. Checked Material Type preferences will be checked by default when a new Material Types record is created.
+* [ASpace Yale Container Operations](https://github.com/hudmol/aspace_yale_container_operations) (Hudson Molonglo): Plugin for bulk container operations.
+* [Item linker](https://github.com/duspeccoll/item_linker) (Denver University Libraries): This ArchivesSpace plugin allows a user to create a Digital Object record directly from an Archival Object (i.e. for digital surrogates of a physical object), and automatically link that Digital Object to the item upon its creation. If a Digital Object is already linked to the item record, the user can push updates from the item to its Digital Object.
+* [Archival Object\_MODS](https://github.com/duspeccoll/ao_mods) (Denver University Libraries): This plugin allows users to download MODS representations of Archival Objects in ArchivesSpace. On the backend, there is an API call allowing the direct download of a MODS representation of any Archival Object as well as the metadata for that MODS representation, similar to the MODS export for Digital Object records.
+* [Autogenerate DOIDs](https://github.com/lorawoodford/autogenerate-doid) (Lora Woodford): This plugin auto-generates an identifier for Digital Objects created in staff mode (frontend).
+* [Manager User Defined Fields](https://github.com/osulibraries/manage_user_defined_fields) (Ohio State University): This ArchivesSpace plugin hides any user defined fields that are default or not used for the specific type of item being created/edited.
+
+### Additional Front-end Functionality
+
+* [Implementing the ArchivesSpace PUI: A Before Action Review](http://campuspress.yale.edu/yalearchivesspace/2017/09/12/a-before-action-review/) (Yale University): Blog post that explains the purposes of this Before Action Review (BAR): identify what would be accomplished, what would change, and what would indicate success by moving to the ArchivesSpace public user interface.
+* [Donor Details Plugin](http://archival-integration.blogspot.com/2015/07/archivesspace-donor-details-plugin.html) (Bentley Historical Library): Blog post that discusses the Bentley's Donor Details plugin. Includes links to the plugin code.
+* [ArchivesSpace Developer Screencasts: 20. Writing an importer plugin](https://www.youtube.com/watch?v=hWP430Q5EWM) (Mark Triggs, Hudson Molonglo): Youtube video that demonstrates how to write a plugin that adds an importer to ArchivesSpace.
+* [Turning an ArchivesSpace Plugin into Core Code](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/349995159/Turning+an+ArchivesSpace+Plugin+into+Core+Code) (Christine Kim, ArchivesSpace): One of the simplest and quickest ways to begin writing for the ArchivesSpace core code is to take an existing plugin and convert it into a pull request to the master branch of ArchivesSpace.
