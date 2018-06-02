@@ -24,13 +24,13 @@ Here are some other helpful links:
 
 ## Table of Contents
 
-* [General Resources](#General Resources)
+* [General Resources](#General-Resources)
 * [Implementation](#Implementation)
 * [Integrations](#Integrations)
 * [Migrations](#Migrations)
 * [Plug-ins](#Plug-ins)
-* [APIs and Scripts](#APIs and Scripts)
-* [Trainings and documentation](#Trainings and documentation)
+* [APIs and Scripts](#APIs-and-Scripts)
+* [Trainings and documentation](#Trainings-and-documentation)
 
 ## Credits and ownership
 
@@ -60,5 +60,5 @@ The General Resources category is meant to highlight links that may have broad a
     - [Date formats](https://icantiemyownshoes.wordpress.com/2014/03/19/date-formats/)
     - [Clean up: Date instructions for accession records](https://icantiemyownshoes.wordpress.com/2014/03/25/clean-up-date-instructions-for-accession-records/)
     - [Cleanup: Dates and OpenRefine](https://icantiemyownshoes.wordpress.com/2014/04/24/clean-up-dates-and-openrefine/)
-* Migrating to ArchivesSpace at UAlbany](https://github.com/UAlbanyArchives/aspacemigration). (Greg Wiedeman, SUNY Albany) Detailed description of, and repository of scripts for, Albany&#39;s migration to ASpace.
+* [Migrating to ArchivesSpace at UAlbany](https://github.com/UAlbanyArchives/aspacemigration). (Greg Wiedeman, SUNY Albany) Detailed description of, and repository of scripts for, Albany's migration to ASpace.
 
