@@ -22,7 +22,7 @@ This list is not intended to be an exhaustive roadmap to ArchivesSpace implement
 
 ### Contributing to the list
 
-Please help us continue to collect and add relevant sources to Awesome ArchivesSpace. See the Contribution Guidelines [add link to contributing.md] for information on how to update this page. 
+Please help us continue to collect and add relevant sources to Awesome ArchivesSpace. See the [Contributing Guidelines](./contributing.md)for information on how to update this page. 
 
 Awesome ArchivesSpace was initially populated with three categories of resources: Migrations, Plug-ins, and Integrations. Through that work, additional categories of interest were identified:  Implementation, Scripts, and Trainings and Documentation. We encourage the ArchivesSpace community to add links to these categories as well as welcome new category suggestions.
 
