@@ -43,22 +43,22 @@ The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice C
 The General Resources category is meant to highlight links that may have broad appeal/applicability, beginning information, or particularly thorough information. General Resources is a good place to start browsing and further familiarizing yourself with ArchivesSpace. Many of these links will also appear in the other, more specific categories.
 
 * Yale University ArchivesSpace Migration:
-    - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University) Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
-    - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University) SQL scripts to help support Yale's migration to ArchivesSpace.
+    - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
+    - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale's migration to ArchivesSpace.
 * ArchivesSpace Tools:
-    - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/) Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
-    - Archon Migration Tool](https://github.com/archivesspace/archon-migration) ArchivesSpace Github
-    - Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing)ArchivesSpace muti-sheet Google Doc
-* Bits & Bytes (Patrick Galligan, Rockefeller Archive Center) RAC blog posts about ArchivesSpace migration
+    - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
+    - Archon Migration Tool](https://github.com/archivesspace/archon-migration): ArchivesSpace Github
+    - Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace muti-sheet Google Doc
+* Bits & Bytes (Patrick Galligan, Rockefeller Archive Center): RAC blog posts about ArchivesSpace migration
     - [From AT to ArchivesSpace Part 1: Installation and Cleaning Data for Migration](http://blog.rockarch.org/?p=1265)
     - [From AT to ArchivesSpace Part 2: Migrations and Error Reporting](http://blog.rockarch.org/?p=1289)
     - [From AT to AS Part 3: Training and Customization](http://blog.rockarch.org/?p=1300)
-* Migrating to ArchivesSpace Blog Series on Chaos → Order (Cassie Schmitt) Discusses mapping and cleaning data
+* Migrating to ArchivesSpace Blog Series on Chaos → Order (Cassie Schmitt): Discusses mapping and cleaning data
     - [Beast tables and relationships](https://icantiemyownshoes.wordpress.com/2014/02/24/beast-tables-and-relationships/)
     - [Accession record mapping](https://icantiemyownshoes.wordpress.com/2014/03/04/accession-record-mapping/)
     - Clean up: Inclusive and bulk dates comparison](https://icantiemyownshoes.wordpress.com/2014/03/12/clean-up-inclusive-and-bulk-dates-comparison/)
     - [Date formats](https://icantiemyownshoes.wordpress.com/2014/03/19/date-formats/)
     - [Clean up: Date instructions for accession records](https://icantiemyownshoes.wordpress.com/2014/03/25/clean-up-date-instructions-for-accession-records/)
     - [Cleanup: Dates and OpenRefine](https://icantiemyownshoes.wordpress.com/2014/04/24/clean-up-dates-and-openrefine/)
-* [Migrating to ArchivesSpace at UAlbany](https://github.com/UAlbanyArchives/aspacemigration). (Greg Wiedeman, SUNY Albany) Detailed description of, and repository of scripts for, Albany's migration to ASpace.
+* [Migrating to ArchivesSpace at UAlbany](https://github.com/UAlbanyArchives/aspacemigration) (Greg Wiedeman, SUNY Albany): Detailed description of, and repository of scripts for, Albany's migration to ASpace.
 
