@@ -44,8 +44,8 @@ The General Resources category is meant to highlight links that may have broad a
 
 * ArchivesSpace Tools:
     - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
-    - Archon Migration Tool](https://github.com/archivesspace/archon-migration): ArchivesSpace Github
-    - Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace multi-sheet Google Doc
+    - [Archon Migration Tool](https://github.com/archivesspace/archon-migration): ArchivesSpace Github
+    - [Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace multi-sheet Google Doc
 * Yale University ArchivesSpace Migration:
     - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
     - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale's migration to ArchivesSpace.
@@ -209,3 +209,35 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 * [Donor Details Plugin](http://archival-integration.blogspot.com/2015/07/archivesspace-donor-details-plugin.html) (Bentley Historical Library): Blog post that discusses the Bentley's Donor Details plugin. Includes links to the plugin code.
 * [ArchivesSpace Developer Screencasts: 20. Writing an importer plugin](https://www.youtube.com/watch?v=hWP430Q5EWM) (Mark Triggs, Hudson Molonglo): Youtube video that demonstrates how to write a plugin that adds an importer to ArchivesSpace.
 * [Turning an ArchivesSpace Plugin into Core Code](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/349995159/Turning+an+ArchivesSpace+Plugin+into+Core+Code) (Christine Kim, ArchivesSpace): One of the simplest and quickest ways to begin writing for the ArchivesSpace core code is to take an existing plugin and convert it into a pull request to the master branch of ArchivesSpace.
+
+## Integrations
+
+The links below relate to ArchivesSpace integrations projects. Resources are loosely grouped by the type of system being integrated with ArchivesSpace (i.e., digital preservation systems, content publication systems, import/export integrations,etc.). Some links may appear in multiple categories.
+
+* General resources on integrations (ArchivesSpace)
+    - [What are integrations?](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/102471723/What+are+Integrations)
+    - [Why integrate with ArchivesSpace?](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/102471809/Why+Integrate+with+ArchivesSpace)
+    - [How to integrate with ArchivesSpace?](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/102471870/How+to+Integrate+with+ArchivesSpace)
+    - [Integrations with ArchivesSpace](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/17137746/Integrations)
+
+### Digital Preservation Systems
+* [ArchivesSpace-Archivematica Integration](https://github.com/hudmol/archivematica_plugin) (Rockefeller Archive Center): Integration endpoints for Archivematica.
+* [ArchivesSpace Integration documentation from Archivematica](https://wiki.archivematica.org/ArchivesSpace_integration) (Archivematica): Includes mapping samples between ArchivesSpace and Archivematica.
+* [Caltech Archives Integration Tools](https://github.com/caltechlibrary/cait) (Caltech Library): A collection of tools utilities and services for integrating ArchivesSpace with other systems.
+* [Bridging Technologies to Efficiently Arrange and Describe Digital Archives: the Bentley Historical Library&#39;s ArchivesSpace-Archivematica-DSpace Workflow Integration Project](http://journal.code4lib.org/articles/12105) (Max Eckard, Dallas Pillen, and Mike Shallcross): "The integration of ArchivesSpace and Archivematica in an end-to-end workflow that will include the automated deposit of content into a DSpace repository. This article provides context of the project and offers an in-depth exploration of the project's key development tasks, all of which were provided by Artefactual Systems, the developers of Archivematica."
+* [ArchivesSpace Integration Use Cases](https://wiki.duraspace.org/display/samvera/ArchivesSpace+Integration+Use+Cases) (Samvera Archivists Interest Group - formerly the Hydra Archivists Working Group): Contains links to user stories from various institutions about how they would like to integrate ArchivesSpace with their Samvera-(formerly, Hydra)-based repositories.
+* [Archive-It - ArchivesSpace Integration](https://archive-it.org/blog/post/archivesspace-integration/) (Archive-It): Blog post about the new Archive-It integration with ArchivesSpace. Includes link to [documentation and plugins](https://support.archive-it.org/hc/en-us/articles/115004287686).
+* [Islandora ArchivesSpace](https://github.com/lyrasis/islandora_aspace) (LYRASIS): Includes modules, scripts, forms, and a plugin to integrate ASpace with Islandora metadata and digital objects.
+
+### Import/Export
+* [EADChecker](https://github.com/harvard-library/archivesspace-checker) (Harvard Library): Import/export integration for checking EADs against local standards via schematron. This is a small website intended to allow Harvard Archivists to check their EAD files prior to ingest by ArchivesSpace.
+* [ArchivesSpace Preprocessor](https://github.com/harvard-library/archivesspace-preprocessor) (Harvard Library): The ArchivesSpace Preprocessing system processes EAD files and applies changes (fixes) to them to allow for successful ingest into [ArchivesSpace](https://github.com/archivesspace/archivesspace).
+* [Link (Archive-It) Seeds to related ArchivesSpace collections](https://support.archive-it.org/hc/en-us/articles/115004287686-Link-seeds-to-related-ArchivesSpace-collections) (Mary Haberle, Archive-It): The "Related Archival Materials" metadata field makes it possible for partners using ArchivesSpace to integrate non-web collections in their holdings into seed-level Archives-It records.
+* [Repurposing ArchivesSpace Metadata for Original MARC Cataloging](https://www.tandfonline.com/doi/abs/10.1080/19386389.2017.1285143) (Carol Ou, Katherine L. Rankin, Cyndi Shein): "UNLV...completed a pilot project exploring the repurposing of descriptive metadata for archival collections stored in ArchivesSpace for the creation of original MAchine-Readable Cataloging (MARC) records contributed to OCLC WorldCat."
+* [Circa](https://github.com/NCSU-Libraries/circa) (North Carolina State University Library): Request and workflow management for archives and special collections. A web-based system for managing requests for special collections materials. The application includes a JSON API, built in Ruby on Rails, and a default front end written in Angular.js (v. 1.6.x). Circa provides close integration with ArchivesSpace, upon which the application depends for managing containers associated with specific collection components, as well as the location of those containers. It can also support requests for materials described in an ILS.
+
+### Content Publication
+* [staticAid](https://github.com/helrond/staticAid) (Hillel Arnold): A [Jekyll](http://jekyllrb.com/) static site generator for archival description serialized in JSON, generated via the [ArchivesSpace](http://archivesspace.org) REST API, or by other modular backends which can be added to the system.
+
+### Case Studies
+* [Open-Source Opens Doors: A Case Study on Extending ArchivesSpace Code at UNLV Libraries](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1039&amp;context=jcas) (Cyndi Shein): "UNLV is in its third year of implementing...ArchivesSpace, and is sharing UNLV-developed code that extends ArchivesSpace's built-in function. The case study demonstrates how adopting and building upon community-created code and developing original local code is improving critical workflows that support creating collection descriptions, cleaning up metadata, and disseminating finding aids that are easier for researchers to comprehend."
