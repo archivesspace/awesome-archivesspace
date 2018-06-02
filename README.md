@@ -39,7 +39,6 @@ Awesome ArchivesSpace was initially populated by the [Awesome ArchivesSpace Ad H
 The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list (responding to pull requests), any administrative issues, and initiating a more thorough review of the list by TAC (recommended every two years). Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 ## General Resources
-
 The General Resources category is meant to highlight links that may have broad appeal/applicability, beginning information, or particularly thorough information. General Resources is a good place to start browsing and further familiarizing yourself with ArchivesSpace. Many of these links will also appear in the other, more specific categories.
 
 * ArchivesSpace Tools:
@@ -63,7 +62,6 @@ The General Resources category is meant to highlight links that may have broad a
 * [Migrating to ArchivesSpace at UAlbany](https://github.com/UAlbanyArchives/aspacemigration) (Greg Wiedeman, SUNY Albany): Detailed description of, and repository of scripts for, Albany's migration to ASpace.
 
 ## Migrations
-
 The links below relate to ArchivesSpace migration projects. Resources are loosely grouped by the systems or tools organizations were coming from when migrating to ArchiveSpace. Some links may appear in multiple categories.
 
 ### Any legacy database
@@ -138,8 +136,7 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
     - [Smith College Github ASpace Migration - Files, tools, and plans](https://github.com/smith-special-collections/aspace-migration): Files, tools, and plans for bringing legacy data into ArchivesSpace at Smith.
     
 ## Plug-ins
-
-The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing data or exporting data, searching, administration, authentication, and additional front-end and back-end funcationality. Some links may appear in multiple categories.
+The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end funcationality. Some links may appear in multiple categories.
 
 ### Import/Export Data
 
@@ -211,8 +208,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 * [Turning an ArchivesSpace Plugin into Core Code](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/349995159/Turning+an+ArchivesSpace+Plugin+into+Core+Code) (Christine Kim, ArchivesSpace): One of the simplest and quickest ways to begin writing for the ArchivesSpace core code is to take an existing plugin and convert it into a pull request to the master branch of ArchivesSpace.
 
 ## Integrations
-
-The links below relate to ArchivesSpace integrations projects. Resources are loosely grouped by the type of system being integrated with ArchivesSpace (i.e., digital preservation systems, content publication systems, import/export integrations,etc.). Some links may appear in multiple categories.
+The links below relate to ArchivesSpace integrations projects. Resources are loosely grouped by the type of system being integrated with ArchivesSpace such as digital preservation systems, content publication systems, import/export integrations, etc. Some links may appear in multiple categories.
 
 * General resources on integrations (ArchivesSpace)
     - [What are integrations?](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/102471723/What+are+Integrations)
@@ -243,6 +239,7 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 * [Open-Source Opens Doors: A Case Study on Extending ArchivesSpace Code at UNLV Libraries](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1039&amp;context=jcas) (Cyndi Shein): "UNLV is in its third year of implementing...ArchivesSpace, and is sharing UNLV-developed code that extends ArchivesSpace's built-in function. The case study demonstrates how adopting and building upon community-created code and developing original local code is improving critical workflows that support creating collection descriptions, cleaning up metadata, and disseminating finding aids that are easier for researchers to comprehend."
 
 ## Trainings and Documentation
+The links below relate to ArchivesSpace training resources and/or documentation. 
 
 * [Training and Resources](https://guides.nyu.edu/archivesspace/training) (New York University): NYU's staff training materials for ArchivesSpace.
     - [Local Usage Manual](https://guides.nyu.edu/archivesspace/manual) (NYU)
@@ -250,11 +247,13 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 * [Archival Collection Management Documentation](https://www.orbiscascade.org/archival-collection-management-documentation) and [ArchiveSpace Training](https://www.orbiscascade.org/archival-collection-management-training): The training offers an interactive overview of ArchivesSpace. The training is a combination of recorded webinars to watch anytime and live one-hour web-based workshops.
 
 ## Implementation
+The links below relate to ArchivesSpace implementation projects. 
 
 * [Implementing ArchivesSpace at Arizona State University](http://www.ingentaconnect.com/content/hsp/jdmm/2016/00000004/00000003/art00009#Metr) (Elizabeth Dunham): Arizona State University Libraries became charter members of ArchivesSpace, an "open source archives information management application for managing and providing web access to archives, manuscripts and digital objects", in early 2013. This case study discusses the Libraries' migration of its Archives and Special Collections (ASC) from Microsoft Access, Archivists' Toolkit and FileMaker Pro to ArchivesSpace.
 * [Implementing ArchivesSpace at NYPL: Part 1](https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1) (New York Public LIbrary): "In 2014, the Archives Unit at The New York Public Library began its evaluation of ArchivesSpace. Following a rigorous review of the application, we began implementation in earnest in 2016, and started using it in production earlier this year. Historically, Special Collections developed its own systems for collection/data management, which could be developed and tailored to suit our needs. As such, moving from a homegrown data management system/model to a community-designed one represented a major shift in how the Library evaluates and implements systems. Instead of being able to build to our wants/needs from the ground up, ArchivesSpace required us to meet the application halfway in its assumptions and practices."
 
 ## APIs and Scripts
+The links below relate to ArchivesSpace scripts and APIs. 
 
 * [Getting things done with in ArchivesSpace, or, Fun with APIs](https://blogs.library.duke.edu/bitstreams/2016/09/21/archivesspace-api-fun/) (Noah Huffman, Duke University): Explains how to use APIs in ArchivesSpace, along with specific examples.
 * [Python for Archivists: breaking down barriers between systems](https://practicaltechnologyforarchives.org/issue7_wiedeman/) (Greg Wiederman, SUNY Albany): Article about working with the Python scripting language, which can be used to create APIs for ArchivesSpace.
