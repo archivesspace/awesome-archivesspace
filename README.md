@@ -69,9 +69,9 @@ The links below relate to ArchivesSpace migration projects. Resources are loosel
 ### Any legacy database
 Links that can be useful for any legacy database:
 * ArchivesSpace Tools:
-    - [Migration Tools &amp; Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools., as well maps and templates for importing and exporting data into and from ArchivesSpace.
+    - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
     - [Archon Migration Tool](https://github.com/archivesspace/archon-migration): ArchivesSpace Github
-    - [Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace muti-sheet Google Doc
+    - [Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace multi-sheet Google Doc
 * Yale University ArchivesSpace Migration:
     - [ArchivesSpace @ Yale](https://campuspress.yale.edu/yalearchivesspace/) -- [Migration, step by step](https://campuspress.yale.edu/yalearchivesspace/2015/06/14/migration-step-by-step/) (Maureen Callahan, Yale University): Report of the ArchivesSpace migration at Yale University, including tools that were used, how the migration was organized, and lessons learned.
     - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale&#39;s migration to ArchivesSpace.
