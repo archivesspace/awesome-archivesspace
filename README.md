@@ -24,13 +24,13 @@ Here are some other helpful links:
 
 ## Table of Contents
 
-* [General Resources](#General-Resources)
-* [Implementation](#Implementation)
-* [Integrations](#Integrations)
-* [Migrations](#Migrations)
-* [Plug-ins](#Plug-ins)
-* [APIs and Scripts](#APIs-and-Scripts)
-* [Trainings and documentation](#Trainings-and-documentation)
+* [General Resources](#general-resources)
+* [Migrations](#migrations)
+* [Trainings and Documentation](#trainings-and-documentation)
+* [Plug-ins](#plug-ins)
+* [Integrations](#integrations)
+* [Implementation](#implementation)
+* [APIs and Scripts](#apis-and-scripts)
 
 ## Credits and ownership
 
@@ -241,3 +241,30 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 
 ### Case Studies
 * [Open-Source Opens Doors: A Case Study on Extending ArchivesSpace Code at UNLV Libraries](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1039&amp;context=jcas) (Cyndi Shein): "UNLV is in its third year of implementing...ArchivesSpace, and is sharing UNLV-developed code that extends ArchivesSpace's built-in function. The case study demonstrates how adopting and building upon community-created code and developing original local code is improving critical workflows that support creating collection descriptions, cleaning up metadata, and disseminating finding aids that are easier for researchers to comprehend."
+
+## Trainings and Documentation
+
+* [Training and Resources](https://guides.nyu.edu/archivesspace/training) (New York University): NYU's staff training materials for ArchivesSpace.
+    - [Local Usage Manual](https://guides.nyu.edu/archivesspace/manual)(NYU)
+* [List of links to a variety of ArchivesSpace training manuals](https://www2.archivists.org/groups/collection-management-tools-section/archivesspace) (Hosted by SAA's Collection Management Tools Section)
+* [Archival Collection Management Documentation](https://www.orbiscascade.org/archival-collection-management-documentation) and [ArchiveSpace Training](https://www.orbiscascade.org/archival-collection-management-training) The training offers an interactive overview of ArchivesSpace. The training is a combination of recorded webinars to watch anytime and live one-hour web-based workshops.
+
+## Implementation
+
+* [Implementing ArchivesSpace at Arizona State University](http://www.ingentaconnect.com/content/hsp/jdmm/2016/00000004/00000003/art00009#Metr) (Elizabeth Dunham): Arizona State University Libraries became charter members of ArchivesSpace, an "open source archives information management application for managing and providing web access to archives, manuscripts and digital objects", in early 2013. This case study discusses the Libraries' migration of its Archives and Special Collections (ASC) from Microsoft Access, Archivists' Toolkit and FileMaker Pro to ArchivesSpace.
+* [Implementing ArchivesSpace at NYPL: Part 1](https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1) (New York Public LIbrary): "In 2014, the Archives Unit at The New York Public Library began its evaluation of ArchivesSpace. Following a rigorous review of the application, we began implementation in earnest in 2016, and started using it in production earlier this year. Historically, Special Collections developed its own systems for collection/data management, which could be developed and tailored to suit our needs. As such, moving from a homegrown data management system/model to a community-designed one represented a major shift in how the Library evaluates and implements systems. Instead of being able to build to our wants/needs from the ground up, ArchivesSpace required us to meet the application halfway in its assumptions and practices."
+
+## APIs and Scripts
+
+* [Getting things done with in ArchivesSpace, or, Fun with APIs](https://blogs.library.duke.edu/bitstreams/2016/09/21/archivesspace-api-fun/) (Noah Huffman, Duke University): Explains how to use APIs in ArchivesSpace, along with specific examples.
+* [Python for Archivists: breaking down barriers between systems](https://practicaltechnologyforarchives.org/issue7_wiedeman/) (Greg Wiederman, SUNY Albany): Article about working with the Python scripting language, which can be used to create APIs for ArchivesSpace.
+* [ArchivesSpace Export Service](https://github.com/hudmol/archivesspace_export_service) (Hudson Molonglo): Created for Yale University; "rovides a framework for scheduled EAD export and publication."
+* [ArchivesSpace scripts](https://github.com/duke-libraries/archivesspace-duke-scripts) (Duke University Libraries): Various scripts to process ArchivesSpace EAD exports, interact with the ArchivesSpace API, or query backend ASpace SQL database for reports.
+* [ArchivesSpace Data Export Scripts](https://github.com/RockefellerArchiveCenter/scripts/tree/master/archivesspace) (Rockefeller Archive Center): Various scripts to export different data records (i.e. locations, containers, archival objects, etc.) from ArchivesSpace in a variety of formats (i.e. METS, EADs, etc.)
+* [Automated exports for ArchivesSpace](https://github.com/RockefellerArchiveCenter/asExportIncremental) (Rockefeller Archive Center): These scripts export updated data from ArchivesSpace and version all data in git.
+* [Cross-Origin Resource Sharing for ArchivesSpace](http://blog.rockarch.org/?p=1610) (Rockefeller Archive Center): Implements Cross-Origin Resource Sharing
+* [DACSspace](https://github.com/RockefellerArchiveCenter/DACSspace) (Rockefeller Archive Center): A simple Python script to evaluate your ArchivesSpace instance for DACS [single-level mini](http://www2.archivists.org/standards/DACS/part_I/chapter_1) [mum](http://www2.archivists.org/standards/DACS/part_I/chapter_1) required elements. DACSspace utilizes the ArchivesSpace API to check resources for DACS compliance and produces a csv containing a list of evaluated resources. If a DACS field is present its content will be written to the csv, if a field is missing the csv will read &quot;FALSE&quot; for that item.
+* Digital Media Logging Tools:
+  - [NYU Libraries Media Log](https://github.com/NYU-ACM/medialog) (New York University): This is a basic app for capturing information about media being imaged.
+  - [Rockefeller Archive Center&#39;s Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log) A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
+* [ArchivesSnake](https://github.com/archivesspace-labs/ArchivesSnake) (ArchivesSpace Labs): A client library for working with the ArchivesSpace API.
