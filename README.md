@@ -10,18 +10,6 @@ The intended audience for the list is those who have decided to adopt ArchivesSp
 
 This list is not intended to be an exhaustive roadmap to ArchivesSpace implementation, but more as a "resource guide". Inclusion on the list isn't an endorsement of any kind.
 
-## Contributing to the list
-
-Please help us continue to collect and add relevant sources to Awesome ArchivesSpace. See the Contribution Guidelines [add link to contributing.md] for information on how to update this page. 
-
-Awesome ArchivesSpace was initially populated with three categories of resources: Migrations, Plug-ins, and Integrations. Through that work, additional categories of interest were identified:  Implementation, Scripts, and Trainings and Documentation. We encourage the ArchivesSpace community to add links to these categories as well as welcome new category suggestions.
-
-## Not seeing what you need?
-
-Here are some other helpful links:
-* For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
-* ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
-
 ## Table of Contents
 
 * [General Resources](#general-resources)
@@ -32,11 +20,23 @@ Here are some other helpful links:
 * [Implementation](#implementation)
 * [APIs and Scripts](#apis-and-scripts)
 
-## Credits and ownership
+### Contributing to the list
+
+Please help us continue to collect and add relevant sources to Awesome ArchivesSpace. See the Contribution Guidelines [add link to contributing.md] for information on how to update this page. 
+
+Awesome ArchivesSpace was initially populated with three categories of resources: Migrations, Plug-ins, and Integrations. Through that work, additional categories of interest were identified:  Implementation, Scripts, and Trainings and Documentation. We encourage the ArchivesSpace community to add links to these categories as well as welcome new category suggestions.
+
+### Not seeing what you need?
+
+Here are some other helpful links:
+* For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
+* ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
+
+### Credits and ownership
 
 Awesome ArchivesSpace was initially populated by the [Awesome ArchivesSpace Ad Hoc Working Group](https://archivesspace.atlassian.net/wiki/spaces/AC/pages/266797087/Awesome+ArchivesSpace+Working+Group), under the aegis of the Technical Advisory Council, in 2018. The working group was comprised of: Justin Dalton, Christina Luers, Anne Marie Lyons, and Maggie Hughes.
 
-The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list and any administrative issues. Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request. 
+The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list (responding to pull requests), any administrative issues, and initiating a more thorough review of the list by TAC (recommended every two years). Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 ## General Resources
 
