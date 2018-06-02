@@ -36,7 +36,7 @@ Here are some other helpful links:
 
 Awesome ArchivesSpace was initially populated by the [Awesome ArchivesSpace Ad Hoc Working Group](https://archivesspace.atlassian.net/wiki/spaces/AC/pages/266797087/Awesome+ArchivesSpace+Working+Group), under the aegis of the Technical Advisory Council, in 2018. The working group was comprised of: Justin Dalton, Christina Luers, Anne Marie Lyons, and Maggie Hughes.
 
-The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list and any administrative issues. Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request. 
+The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list (responding to pull requests), any administrative issues, and initiating a more thorough review of the list by TAC (recommended every two years). Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 ## General Resources
 
