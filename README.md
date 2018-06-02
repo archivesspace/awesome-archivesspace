@@ -87,11 +87,11 @@ If you are migrating from Archivists Toolkit, you may find these links useful:
     - [Yale ArchivesSpace migrationSQL](https://github.com/YaleArchivesSpace/migrationSQL) (Yale University): SQL scripts to help support Yale's migration to ArchivesSpace.
 * ArchivesSpace Tools:
     - [Migration Tools &amp; Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
-*Bits & Bytes (Patrick Galligan, Rockefeller Archive Center): RAC blog posts about ArchivesSpace migration
+* Bits & Bytes (Patrick Galligan, Rockefeller Archive Center): RAC blog posts about ArchivesSpace migration
     - [From AT to ArchivesSpace Part 1: Installation and Cleaning Data for Migration](http://blog.rockarch.org/?p=1265)
     - [From AT to ArchivesSpace Part 2: Migrations and Error Reporting](http://blog.rockarch.org/?p=1289)
     - [From AT to AS Part 3: Training and Customization](http://blog.rockarch.org/?p=1300)
 * [Migrating from Archivists' Toolkit to ArchivesSpace](https://sites.google.com/site/ccdarchivesspace/pacifics-migration-from-at--as) (Eva Guggemos, Pacific University): Report of the stages of Pacific University's migration from AT to ArchivesSpace
 * ArchivesSpace Tools:
-    - [Migration Tools &amp; Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
+    - [Migration Tools & Data Mapping](https://archivesspace.org/using-archivesspace/migration-tools-and-data-mapping/): Includes the Archivists' Toolkit and Archon migration tools, as well maps and templates for importing and exporting data into and from ArchivesSpace.
     - [Migrating to ArchivesSpace](https://teaspoon-consulting.com/articles/migrating-to-archivesspace.html) (Mark Triggs, Teaspoon Consulting): Migration from Archivists' Toolkit to ArchivesSpace
