@@ -32,11 +32,11 @@ Here are some other helpful links:
 * For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
 * ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
 
-### Credits and ownership
+### Ownership and credits
+
+The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list which includes: responding to all pull requests, monitoring the ASpace user group listserv for new content and adding it to the list, taking care of any administrative issues, and initiating an in-depth review of the list by TAC as needed with a minimum recommendedation of every two years. Please reach out to the TAC Vice Chair if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 Awesome ArchivesSpace was initially populated by the [Awesome ArchivesSpace Ad Hoc Working Group](https://archivesspace.atlassian.net/wiki/spaces/AC/pages/266797087/Awesome+ArchivesSpace+Working+Group), under the aegis of the Technical Advisory Council, in 2018. The working group was comprised of: Justin Dalton, Christina Luers, Anne Marie Lyons, and Maggie Hughes.
-
-The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list (responding to pull requests), any administrative issues, and initiating a more thorough review of the list by TAC (recommended every two years). Please reach out to them if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 ## General Resources
 The General Resources category is meant to highlight links that may have broad appeal/applicability, beginning information, or particularly thorough information. General Resources is a good place to start browsing and further familiarizing yourself with ArchivesSpace. Many of these links will also appear in the other, more specific categories.
