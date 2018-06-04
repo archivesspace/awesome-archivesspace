@@ -6,9 +6,9 @@
 
 Awesome ArchivesSpace is an [awesome list](https://github.com/sindresorhus/awesome). It points to resources (code, blog posts, anything with a URL, really) regarding ArchivesSpace created by the community that are dispersed around the web. Resources are loosely categorized by broad topic.
 
-The intended audience for the list is those who have decided to adopt ArchivesSpace (or already have implemented ASpace) and need some help on where to go next in a specific area, both ArchivesSpace members and non-members.
+The intended audience for the list is those who have decided to adopt or have already implemented ASpace, both ASpace members and non-members, and need some help on where to go next in a specific area.
 
-This list is not intended to be an exhaustive roadmap to ArchivesSpace implementation, but more as a "resource guide". Inclusion on the list isn't an endorsement of any kind.
+This list is not intended to be an exhaustive roadmap to ArchivesSpace implementation, but more as a "resource guide". Inclusion on the list is not an endorsement of any kind.
 
 ## Table of Contents
 
