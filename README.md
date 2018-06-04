@@ -34,7 +34,7 @@ Here are some other helpful links:
 
 ### Ownership and credits
 
-The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list which includes: responding to all pull requests, monitoring the ASpace user group listserv for new content and adding it to the list, taking care of any administrative issues, and initiating an in-depth review of the list by TAC as needed with a minimum recommendedation of every two years. Please reach out to the TAC Vice Chair if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
+The ArchivesSpace community has ownership over Awesome ArchivesSpace. TAC Vice Chair has responsibility for the ongoing maintenance of the list which includes: responding to all pull requests, monitoring the ASpace user group listserv for new content and adding it to the list, taking care of any administrative issues, and initiating an in-depth review of the list by TAC as needed with a minimum recommendation of every two years. Please reach out to the TAC Vice Chair if you have any further questions or suggestions that cannot be handled via a pull request or issue. 
 
 Awesome ArchivesSpace was initially populated by the [Awesome ArchivesSpace Ad Hoc Working Group](https://archivesspace.atlassian.net/wiki/spaces/AC/pages/266797087/Awesome+ArchivesSpace+Working+Group), under the aegis of the Technical Advisory Council, in 2018. The working group was comprised of: Justin Dalton, Christina Luers, Anne Marie Lyons, and Maggie Hughes.
 
