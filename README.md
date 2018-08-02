@@ -127,7 +127,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 
 ### Search
 
-* [NCSU Search Title Boost](https://github.com/NCSU-Libraries/archivesspace_search_title_boost) (North Carolina State University Libraries): Boosts exact matches on title field - improves precision of search queries from linked record fields (linked agents, subjects, etc.).
+* [NCSU Search Title Boost](https://github.com/NCSU-Libraries/archivesspace_search_title_boost) (NCSU Libraries): Boosts exact matches on title field - improves precision of search queries from linked record fields (linked agents, subjects, etc.). Note that this functionality can now be implemented by customizing the Solr parameters via the ArchivesSpace config file.
 * Search Identifier plugins:
     - [Search Identifier](https://github.com/duke-libraries/archivesspace-duke-plugins/tree/master/plugins/aspace-search-identifier) (Duke University Libraries): Adds the identifier column to search and advanced search results pages for a number of different records.
     - [Search Identifier](https://github.com/lyrasis/aspace-search-identifier) (LYRASIS): Adds an identifier column to search and advanced search results pages in the staff interface.
@@ -148,7 +148,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 
 ### Additional Back-end Functionality
 
-* [NCSU Delete Button Context Plugin](https://github.com/NCSU-Libraries/archivesspace_delete_button_context_plugin) (North Carolina State University Libraries): Changes the label on the 'Delete' button in the record toolbar to indicate the type of record being deleted.
+* [NCSU Delete Button Context Plugin](https://github.com/NCSU-Libraries/archivesspace_delete_button_context_plugin) (NCSU Libraries): Changes the label on the 'Delete' button in the record toolbar to indicate the type of record being deleted.
 * [Payments Module](https://github.com/hudmol/payments_module) (Hudson Molonglo): Payments subrecord for accession records.
 * Atlas Systems: Aeon/ArchivesSpace Plugins
     - [ArchivesSpace-Aeon Fulfillment Plugin](https://github.com/hudmol/ArchivesSpace-Aeon-Fulfillment-Plugin): Allows patrons to submit requests from ArchivesSpace PUI to Aeon.
@@ -206,7 +206,7 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 * [ArchivesSpace Preprocessor](https://github.com/harvard-library/archivesspace-preprocessor) (Harvard Library): The ArchivesSpace Preprocessing system processes EAD files and applies changes (fixes) to them to allow for successful ingest into [ArchivesSpace](https://github.com/archivesspace/archivesspace).
 * [Link (Archive-It) Seeds to related ArchivesSpace collections](https://support.archive-it.org/hc/en-us/articles/115004287686-Link-seeds-to-related-ArchivesSpace-collections) (Mary Haberle, Archive-It): The "Related Archival Materials" metadata field makes it possible for partners using ArchivesSpace to integrate non-web collections in their holdings into seed-level Archives-It records.
 * [Repurposing ArchivesSpace Metadata for Original MARC Cataloging](https://www.tandfonline.com/doi/abs/10.1080/19386389.2017.1285143) (Carol Ou, Katherine L. Rankin, Cyndi Shein): "UNLV...completed a pilot project exploring the repurposing of descriptive metadata for archival collections stored in ArchivesSpace for the creation of original MAchine-Readable Cataloging (MARC) records contributed to OCLC WorldCat."
-* [Circa](https://github.com/NCSU-Libraries/circa) (North Carolina State University Library): Request and workflow management for archives and special collections. A web-based system for managing requests for special collections materials. The application includes a JSON API, built in Ruby on Rails, and a default front end written in Angular.js (v. 1.6.x). Circa provides close integration with ArchivesSpace, upon which the application depends for managing containers associated with specific collection components, as well as the location of those containers. It can also support requests for materials described in an ILS.
+* [Circa](https://github.com/NCSU-Libraries/circa) (NCSU Libraries): Request and workflow management for archives and special collections. A web-based system for managing requests for special collections materials. The application includes a JSON API, built in Ruby on Rails, and a default front end written in Angular.js (v. 1.6.x). Circa provides close integration with ArchivesSpace, upon which the application depends for managing containers associated with specific collection components, as well as the location of those containers. It can also support requests for materials described in an ILS.
 
 ### Content Publication
 * [staticAid](https://github.com/helrond/staticAid) (Hillel Arnold): A [Jekyll](http://jekyllrb.com/) static site generator for archival description serialized in JSON, generated via the [ArchivesSpace](http://archivesspace.org) REST API, or by other modular backends which can be added to the system.
