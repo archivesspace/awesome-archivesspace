@@ -210,6 +210,7 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 
 ### Content Publication
 * [staticAid](https://github.com/helrond/staticAid) (Hillel Arnold): A [Jekyll](http://jekyllrb.com/) static site generator for archival description serialized in JSON, generated via the [ArchivesSpace](http://archivesspace.org) REST API, or by other modular backends which can be added to the system.
+* [AS2D8: ArchivesSpace-to-Drupal 8 integration](https://github.com/jasloe/archivesspace-drupal) (Jason Loeffler): AS2D8 is a series of Drupal modules for harvesting data from ArchviesSpace. AS2D8 extends the Drupal core Migrate API with plugins, provides sensible defaults for displaying ArchivesSpace resources in Drupal and all of the usual Drupal content and website management tools.
 
 ### Case Studies
 * [Open-Source Opens Doors: A Case Study on Extending ArchivesSpace Code at UNLV Libraries](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1039&amp;context=jcas) (Cyndi Shein, Carol Ou, Karla Irwin, Carlos Lemus): "UNLV is in its third year of implementing...ArchivesSpace, and is sharing UNLV-developed code that extends ArchivesSpace's built-in function. The case study demonstrates how adopting and building upon community-created code and developing original local code is improving critical workflows that support creating collection descriptions, cleaning up metadata, and disseminating finding aids that are easier for researchers to comprehend."
