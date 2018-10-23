@@ -112,7 +112,7 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
     - [Smith College Github ASpace Migration - Files, tools, and plans](https://github.com/smith-special-collections/aspace-migration): Files, tools, and plans for bringing legacy data into ArchivesSpace at Smith.
     
 ## Plug-ins
-The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end funcationality. Some links may appear in multiple categories.
+The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end functionality. Some links may appear in multiple categories.
 
 ### Import/Export Data
 
