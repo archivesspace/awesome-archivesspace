@@ -110,6 +110,7 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
 * Smith College resources:
     - [Smith College Github Aspace Data Remediation](https://github.com/smith-special-collections/aspace-data-remediation): Files, tools, and plans for remediating data for migration to ArchivesSpace at Smith.
     - [Smith College Github ASpace Migration - Files, tools, and plans](https://github.com/smith-special-collections/aspace-migration): Files, tools, and plans for bringing legacy data into ArchivesSpace at Smith.
+* [Steady converts CSV into EAD XML](http://steady2.herokuapp.com/) (Jason Ronallo, NCSU Libraries): This tool converts CSV resource records into EAD XML.
     
 ## Plug-ins
 The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end functionality. Some links may appear in multiple categories.
