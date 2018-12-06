@@ -106,7 +106,7 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
 * [Olivia and the Great Migration](https://docs.google.com/presentation/d/1cBrd8qzHK4i8S6SQ_vDlScERixX95lAbE__hd48yIDg/edit#slide=id.g23ed42e943_0_176) (Olivia Solis, Briscoe Center for American History): Briscoe Center for American History migration to ArchivesSpace from EADs and internal accession records.
 * Bria Parker, University of Maryland: Migration from an Access Database
     - [Managing Archival Metadata Migration (is Maddening)](https://drum.lib.umd.edu/handle/1903/19210): Presentation about migrating records from an Access database into ArchivesSpace.
-    - [How I learned to stop worrying and love the API](https://icantiemyownshoes.wordpress.com/2015/11/20/how-i-learned-to-stop-worrying-and-love-the-api/): Discusses migrating from a local MS Access database to ArchiveSSpace using the CSV importer and API.
+    - [How I learned to stop worrying and love the API](https://icantiemyownshoes.wordpress.com/2015/11/20/how-i-learned-to-stop-worrying-and-love-the-api/): Discusses migrating from a local MS Access database to ArchivesSpace using the CSV importer and API.
 * Smith College resources:
     - [Smith College Github Aspace Data Remediation](https://github.com/smith-special-collections/aspace-data-remediation): Files, tools, and plans for remediating data for migration to ArchivesSpace at Smith.
     - [Smith College Github ASpace Migration - Files, tools, and plans](https://github.com/smith-special-collections/aspace-migration): Files, tools, and plans for bringing legacy data into ArchivesSpace at Smith.
@@ -236,7 +236,7 @@ The links below relate to ArchivesSpace scripts and APIs.
 
 * [Getting things done with in ArchivesSpace, or, Fun with APIs](https://blogs.library.duke.edu/bitstreams/2016/09/21/archivesspace-api-fun/) (Noah Huffman, Duke University): Explains how to use APIs in ArchivesSpace, along with specific examples.
 * [Python for Archivists: breaking down barriers between systems](https://practicaltechnologyforarchives.org/issue7_wiedeman/) (Greg Wiederman, SUNY Albany): Article about working with the Python scripting language, which can be used to create APIs for ArchivesSpace.
-* [ArchivesSpace Export Service](https://github.com/hudmol/archivesspace_export_service) (Hudson Molonglo): Created for Yale University; "rovides a framework for scheduled EAD export and publication."
+* [ArchivesSpace Export Service](https://github.com/hudmol/archivesspace_export_service) (Hudson Molonglo): Created for Yale University; "provides a framework for scheduled EAD export and publication."
 * [ArchivesSpace scripts](https://github.com/duke-libraries/archivesspace-duke-scripts) (Duke University Libraries): Various scripts to process ArchivesSpace EAD exports, interact with the ArchivesSpace API, or query backend ASpace SQL database for reports.
 * [ArchivesSpace Data Export Scripts](https://github.com/RockefellerArchiveCenter/scripts/tree/master/archivesspace) (Rockefeller Archive Center): Various scripts to export different data records (i.e. locations, containers, archival objects, etc.) from ArchivesSpace in a variety of formats (i.e. METS, EADs, etc.)
 * [Automated exports for ArchivesSpace](https://github.com/RockefellerArchiveCenter/asExportIncremental) (Rockefeller Archive Center): These scripts export updated data from ArchivesSpace and version all data in git.
