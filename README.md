@@ -208,6 +208,7 @@ The links below relate to ArchivesSpace integrations projects. Resources are loo
 * Atlas Systems: Aeon/ArchivesSpace Plugins
     - [ArchivesSpace-Aeon Fulfillment Plugin](https://github.com/hudmol/ArchivesSpace-Aeon-Fulfillment-Plugin): Allows patrons to submit requests from ArchivesSpace PUI to Aeon.
     - [Aeon ArchivesSpace Client Addon](https://github.com/AtlasSystems/AeonArchivesSpaceClientAddon): This addon is used to integrate the ArchivesSpace staff interface into the Aeon Client request form so that staff can search the records of their ArchivesSpace instance and import details into Aeon requests.
+* [ArchivesSpace DAO Links to DSpace Item Records](https://github.com/Georgetown-University-Libraries/File-Analyzer/wiki/Archival-Object-Workflows) (Georgetown University Library). Workflow to export and re-purpose ArchivesSpace metadata as a DSpace item description.  Workflow to create ArchivesSpace DAO records from DSpace metadata.
 
 ### Content Publication
 * [staticAid](https://github.com/helrond/staticAid) (Hillel Arnold): A [Jekyll](http://jekyllrb.com/) static site generator for archival description serialized in JSON, generated via the [ArchivesSpace](http://archivesspace.org) REST API, or by other modular backends which can be added to the system.
