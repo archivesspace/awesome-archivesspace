@@ -233,8 +233,6 @@ The links below relate to ArchivesSpace implementation projects.
 * [Implementing ArchivesSpace at NYPL: Part 1](https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1) (New York Public Library): "In 2014, the Archives Unit at The New York Public Library began its evaluation of ArchivesSpace. Following a rigorous review of the application, we began implementation in earnest in 2016, and started using it in production earlier this year. Historically, Special Collections developed its own systems for collection/data management, which could be developed and tailored to suit our needs. As such, moving from a homegrown data management system/model to a community-designed one represented a major shift in how the Library evaluates and implements systems. Instead of being able to build to our wants/needs from the ground up, ArchivesSpace required us to meet the application halfway in its assumptions and practices."
 * [Customization Layer for ArchivesSpace 2.x](https://github.com/Georgetown-University-Libraries/GUArchivesspace) (Georgetown University Libraries): Repository with Georgetown's branding and configuration customizations for ArchivesSpace.
 
-https://github.com/Georgetown-University-Libraries/GUArchivesspace
-
 ## APIs and Scripts
 The links below relate to ArchivesSpace scripts and APIs. 
 
