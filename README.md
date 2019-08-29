@@ -173,6 +173,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 * [Archival Object\_MODS](https://github.com/duspeccoll/ao_mods) (Denver University Libraries): This plugin allows users to download MODS representations of Archival Objects in ArchivesSpace. On the backend, there is an API call allowing the direct download of a MODS representation of any Archival Object as well as the metadata for that MODS representation, similar to the MODS export for Digital Object records.
 * [Autogenerate DOIDs](https://github.com/lorawoodford/autogenerate-doid) (Lora Woodford): This plugin auto-generates an identifier for Digital Objects created in staff mode (frontend).
 * [Manager User Defined Fields](https://github.com/osulibraries/manage_user_defined_fields) (Ohio State University): This ArchivesSpace plugin hides any user defined fields that are default or not used for the specific type of item being created/edited.
+* [PBSpace](https://github.com/WGBH-MLA/pbspace) (Jason Corum, WGBH Media Library and Archives): This plugin adds new properties and object relationships in the application so that PBCore structure, elements, and attributes can be better represented in ArchivesSpace. PBCore is a data model for the description of audiovisual content.  
 
 ### Additional Front-end Functionality
 
