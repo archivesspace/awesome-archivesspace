@@ -229,7 +229,7 @@ The links below relate to ArchivesSpace training resources and/or documentation.
 
 * [Training and Resources](https://guides.nyu.edu/archivesspace/training) (New York University): NYU's staff training materials for ArchivesSpace.
     - [Local Usage Manual](https://guides.nyu.edu/archivesspace/manual) (NYU)
-* [List of links to a variety of ArchivesSpace training manuals](https://www2.archivists.org/groups/collection-management-tools-section/archivesspace) (Hosted by SAA's Collection Management Tools Section)
+* [List of links to a variety of ArchivesSpace training manuals](https://www2.archivists.org/groups/collection-management-section/cmt-documentation-portal) (Hosted by SAA's Collection Management Section)
 * [Archival Collection Management Documentation](https://www.orbiscascade.org/archival-collection-management-documentation) and [ArchiveSpace Training](https://www.orbiscascade.org/archival-collection-management-training): The training offers an interactive overview of ArchivesSpace. The training is a combination of recorded webinars to watch anytime and live one-hour web-based workshops.
 * [ArchivesSpace Documentation](https://duspeccoll.github.io/archivesspace) (University of Denver)
 
