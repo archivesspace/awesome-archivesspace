@@ -175,6 +175,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 * [PBSpace](https://github.com/WGBH-MLA/pbspace) (Jason Corum, WGBH Media Library and Archives): This plugin adds new properties and object relationships in the application so that PBCore structure, elements, and attributes can be better represented in ArchivesSpace. PBCore is a data model for the description of audiovisual content.  
 * [css stylesheet](https://github.com/YaleArchivesSpace/print) (Yale University): for the staff interface.
 * [Donor Details Plugin](http://archival-integration.blogspot.com/2015/07/archivesspace-donor-details-plugin.html) (Bentley Historical Library): Blog post that discusses the Bentley's Donor Details plugin. Includes links to the plugin code.
+* [Accession Identifier Generator](https://github.com/UNC-Libraries/aspace-accession-identifiers) (UNC Chapel Hill Libraries): Creates controlled value list for accession identifier component 1 and auto-generates accession identifier component 2.
 
 ### Additional Front-end Functionality
 * [Implementing the ArchivesSpace PUI: A Before Action Review](http://campuspress.yale.edu/yalearchivesspace/2017/09/12/a-before-action-review/) (Yale University): Blog post that explains the purposes of this Before Action Review (BAR): identify what would be accomplished, what would change, and what would indicate success by moving to the ArchivesSpace public user interface.
