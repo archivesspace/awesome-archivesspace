@@ -176,6 +176,7 @@ The links below relate to ArchivesSpace plug-in projects. Resources are loosely 
 * [css stylesheet](https://github.com/YaleArchivesSpace/print) (Yale University): for the staff interface.
 * [Donor Details Plugin](http://archival-integration.blogspot.com/2015/07/archivesspace-donor-details-plugin.html) (Bentley Historical Library): Blog post that discusses the Bentley's Donor Details plugin. Includes links to the plugin code.
 * [Accession Identifier Generator](https://github.com/UNC-Libraries/aspace-accession-identifiers) (UNC Chapel Hill Libraries): Creates controlled value list for accession identifier component 1 and auto-generates accession identifier component 2.
+* [Publish Partial Trees](https://gitlab.developers.cam.ac.uk/lib/dev/ams/publish_partial_trees) (University of Cambridge): Allows publication and unpublication of parts of record trees. When active, a "Publish All" and "Unpublish All" button will appear in the resource and archival object toolbars for users with appropriate permissions, and will affect the open record as well as all descendant records.
 
 ### Additional Front-end Functionality
 * [Implementing the ArchivesSpace PUI: A Before Action Review](http://campuspress.yale.edu/yalearchivesspace/2017/09/12/a-before-action-review/) (Yale University): Blog post that explains the purposes of this Before Action Review (BAR): identify what would be accomplished, what would change, and what would indicate success by moving to the ArchivesSpace public user interface.
