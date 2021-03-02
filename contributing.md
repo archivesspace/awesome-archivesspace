@@ -1,6 +1,6 @@
 # Contributing Guidelines for Awesome ArchivesSpace
 
-Please note that this project is released with a contributor code of conduct. Currently this code is Code4Lib's [CodeOfConduct4Lib](https://github.com/code4lib/code-of-conduct/blob/master/code_of_conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with the [ArchivesSpace Code of Conduct](https://archivesspace.org/archivesspace-code-of-conduct). By participating in this project you agree to abide by its terms.
 
 ## Adding to this list
 
