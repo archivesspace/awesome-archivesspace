@@ -67,7 +67,7 @@ Links that can be useful for any legacy database:
     - [From AT to AS Part 3: Training and Customization](http://blog.rockarch.org/?p=1300)
 * [Migrating from Archivists' Toolkit to ArchivesSpace](https://sites.google.com/site/ccdarchivesspace/pacifics-migration-from-at--as) (Eva Guggemos, Pacific University): Report of the stages of Pacific University's migration from AT to ArchivesSpace
 * [Migrating to ArchivesSpace](https://teaspoon-consulting.com/articles/migrating-to-archivesspace.html) (Mark Triggs, Teaspoon Consulting): Migration from Archivists' Toolkit to ArchivesSpace
-* [Archivists' Toolkit Cleanup and Migration Preparation](https://www.orbiscascade.org/archivists-toolkit-cleanup-and-migration-preparation) (Orbis Cascade Alliance): Detailed review of preparing Archivists&#39; Toolkit data for migration to ArchivesSpace. Click on the 'AT Cleanup and Migration Preparations' link to access the document.
+* [Archivists' Toolkit Cleanup and Migration Preparation](https://www.orbiscascade.org/programs/ulc/archives-and-manuscripts-collections/archivesspace/at-migration-preparation/) (Orbis Cascade Alliance): Detailed review of preparing Archivists&#39; Toolkit data for migration to ArchivesSpace. Click on the 'AT Cleanup and Migration Preparations' link to access the document.
     
 ### Archon
 * Yale University ArchivesSpace Migration:
