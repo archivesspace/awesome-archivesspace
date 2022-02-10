@@ -1,6 +1,6 @@
 # Awesome ArchivesSpace
 
-> [ArchivesSpace](http://archivesspace.org/) is an open source, web application for managing archives information. The application is designed to support core functions in archives administration such as accessioning; description and arrangement of processed materials including analog, hybrid, and born-digital content; management of authorities (agents and subjects) and rights; and reference service. The application supports collection management and functions as a metadata authoring tool. 
+> [ArchivesSpace](http://archivesspace.org/) is an open source, web application for managing archives information. The application is designed to support core functions in archives administration such as accessioning; description and arrangement of processed materials including analog, hybrid, and born-digital content; management of authorities (agents and subjects) and rights; and reference service. The application supports collection management and functions as a metadata authoring tool.
 
 ## What is this list?
 
