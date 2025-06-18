@@ -28,8 +28,8 @@ Awesome ArchivesSpace was initially populated with three categories of resources
 ### Not seeing what you need?
 
 Here are some other helpful links:
-* For technical details regarding installation of ArchivesSpace, see the [archivesspace GitHub repository](https://github.com/archivesspace/archivesspace).
-* ArchivesSpace is supported by a membership community. Learn more: [Why Become a Member of ArchivesSpace?](https://archivesspace.org/community/why-become-a-member), [Member Benefits](https://archivesspace.org/community/member-benefits), and [How to Become a Member](https://archivesspace.org/community/how-to-become-a-member).
+* For technical details regarding installation of ArchivesSpace, see the [ArchivesSpace GitHub repository](https://github.com/archivesspace/archivesspace) and [technical documentation](https://docs.archivesspace.org).
+* ArchivesSpace is supported by a membership community. Learn more: [Membership Benefits](https://archivesspace.org/membership/member-benefits)
 
 ### Ownership and credits
 
