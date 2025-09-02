@@ -259,7 +259,7 @@ The links below relate to ArchivesSpace training resources and/or documentation.
 * [List of links to a variety of ArchivesSpace training manuals](https://www2.archivists.org/groups/collection-management-section/cmt-documentation-portal) (Hosted by SAA's Collection Management Section)
 * [Archival Collection Management Documentation](https://www.orbiscascade.org/archival-collection-management-documentation) and [ArchiveSpace Training](https://www.orbiscascade.org/archival-collection-management-training): The training offers an interactive overview of ArchivesSpace. The training is a combination of recorded webinars to watch anytime and live one-hour web-based workshops.
 * [ArchivesSpace Documentation](https://duspeccoll.github.io/archivesspace) (University of Denver)
-* [Tips and Tricks for using OpenRefine with ArchivesSpace] (https://github.com/mebrett/dh-resources/blob/main/guides/openRefine_ASpace1.md) for OpenRefine Resources.
+* [Tips and Tricks for using OpenRefine with ArchivesSpace](https://github.com/mebrett/dh-resources/blob/main/guides/openRefine_ASpace1.md) : Resources for using OpenRefine with ArchivesSpace.
 
 ## Implementation
 The links below relate to ArchivesSpace implementation projects. 
