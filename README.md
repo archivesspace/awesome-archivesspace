@@ -79,7 +79,7 @@ Links that can be useful for any legacy database:
     - [Archon Migration Data Mapping](https://docs.google.com/spreadsheets/d/13soN5djk16QYmRoSajtyAc_nBrNldyL58ViahKFJAog/edit?usp=sharing): ArchivesSpace multi-sheet Google Doc
 * University of Houston Reports:
     - [Data in Flight: Preparing Legacy Finding Aids for Migration](http://www.bluetoad.com/publication/?i=469794#%7B%22issue_id%22:469794,%22page%22:0) (Matthew Richardson, Houston Public Library, and Bethany Scott, University of Houston): Discussion of the challenges with migrating from Archon to ArchivesSpace.
-    - [Migration as motivation: upgrading legacy finding aids in preparation for ArchivesSpace](https://uh-ir.tdl.org/uh-ir/bitstream/handle/10657/2014/RichardsonScott_SAA_2017_ASpace_poster_final.pdf?sequence=1&amp;isAllowed=y) (R. Matthew Richardson and Bethany Scott, University of Houston): Poster presentation on migrating from Archon.
+    - [Migration as motivation: upgrading legacy finding aids in preparation for ArchivesSpace](https://uh-ir.tdl.org/items/af2e5716-0be8-47c3-9b34-8d0e50d9c6c2) (R. Matthew Richardson and Bethany Scott, University of Houston): Poster presentation on migrating from Archon.
 
 ### Re:Discovery
 * Yale University ArchivesSpace Migration:
@@ -116,7 +116,8 @@ If you are migrating from  EAD or a Home Grown database, you may find these link
 * [Columbia University Libraries Migration to ArchivesSpace](https://journal.code4lib.org/articles/14871) (David W. Hodges and Kevin Schlottmann, CUL): Article describing a data migration from several sources - EADs, MARC records, Archivists Toolkit - to ArchivesSpace using Python scripts and API processes.
     
 ## Plug-ins
-The links below relate to ArchivesSpace plug-in projects. Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end functionality. Some links may appear in multiple categories.
+The links below relate to ArchivesSpace plug-in projects. **Proceed with caution as many plug-ins are developed for specifc versions of ArchivesSpace or have since been added to core code.** Resources are loosely grouped by whether the plug-in involves importing or exporting data, searching, administration, authentication, and additional front-end and back-end functionality. Some links may appear in multiple categories.
+
 
 ### Import/Export Data
 
@@ -256,7 +257,7 @@ The links below relate to ArchivesSpace training resources and/or documentation.
 
 * [Training and Resources](https://guides.nyu.edu/archivesspace/training) (New York University): NYU's staff training materials for ArchivesSpace.
     - [Local Usage Manual](https://guides.nyu.edu/archivesspace/manual) (NYU)
-* [List of links to a variety of ArchivesSpace training manuals](https://www2.archivists.org/groups/collection-management-section/cmt-documentation-portal) (Hosted by SAA's Collection Management Section)
+* [List of links to a variety of ArchivesSpace training manuals]([https://www2.archivists.org/groups/collection-management-section/cmt-documentation-portal](https://www2.archivists.org/groups/collection-management-section/archivesspace) (Hosted by SAA's Collection Management Section)
 * [Archival Collection Management Documentation](https://www.orbiscascade.org/archival-collection-management-documentation) and [ArchiveSpace Training](https://www.orbiscascade.org/archival-collection-management-training): The training offers an interactive overview of ArchivesSpace. The training is a combination of recorded webinars to watch anytime and live one-hour web-based workshops.
 * [ArchivesSpace Documentation](https://duspeccoll.github.io/archivesspace) (University of Denver)
 * [Tips and Tricks for using OpenRefine with ArchivesSpace](https://github.com/mebrett/dh-resources/blob/main/guides/openRefine_ASpace1.md) : Resources for using OpenRefine with ArchivesSpace.
@@ -273,13 +274,13 @@ The links below relate to ArchivesSpace implementation projects.
 The links below relate to ArchivesSpace scripts and APIs. 
 
 * [Getting things done with in ArchivesSpace, or, Fun with APIs](https://blogs.library.duke.edu/bitstreams/2016/09/21/archivesspace-api-fun/) (Noah Huffman, Duke University): Explains how to use APIs in ArchivesSpace, along with specific examples.
-* [Python for Archivists: breaking down barriers between systems](https://practicaltechnologyforarchives.org/issue7_wiedeman/) (Greg Wiederman, SUNY Albany): Article about working with the Python scripting language, which can be used to create APIs for ArchivesSpace.
+* [Python for Archivists: breaking down barriers between systems](https://scholarsarchive.library.albany.edu/ulib_fac_scholar/93) (Greg Wiederman, SUNY Albany): Article about working with the Python scripting language, which can be used to create APIs for ArchivesSpace.
 * [ArchivesSpace Export Service](https://github.com/hudmol/archivesspace_export_service) (Hudson Molonglo): Created for Yale University; "provides a framework for scheduled EAD export and publication."
 * [ArchivesSpace scripts](https://github.com/duke-libraries/archivesspace-duke-scripts) (Duke University Libraries): Various scripts to process ArchivesSpace EAD exports, interact with the ArchivesSpace API, or query backend ASpace SQL database for reports.
 * [ArchivesSpace Data Export Scripts](https://github.com/RockefellerArchiveCenter/scripts/tree/master/archivesspace) (Rockefeller Archive Center): Various scripts to export different data records (i.e. locations, containers, archival objects, etc.) from ArchivesSpace in a variety of formats (i.e. METS, EADs, etc.)
 * [Automated exports for ArchivesSpace](https://github.com/RockefellerArchiveCenter/asExportIncremental) (Rockefeller Archive Center): These scripts export updated data from ArchivesSpace and version all data in git.
 * [Cross-Origin Resource Sharing for ArchivesSpace](http://blog.rockarch.org/?p=1610) (Rockefeller Archive Center): Implements Cross-Origin Resource Sharing
-* [DACSspace](https://github.com/RockefellerArchiveCenter/DACSspace) (Rockefeller Archive Center): A simple Python script to evaluate your ArchivesSpace instance for [DACS single-level minimum](http://www2.archivists.org/standards/DACS/part_I/chapter_1) required elements. DACSspace utilizes the ArchivesSpace API to check resources for DACS compliance and produces a csv containing a list of evaluated resources. If a DACS field is present its content will be written to the csv, if a field is missing the csv will read &quot;FALSE&quot; for that item.
+* [DACSspace](https://github.com/RockefellerArchiveCenter/DACSspace) (Rockefeller Archive Center): A simple Python script to evaluate your ArchivesSpace instance for [DACS single-level minimum](https://saa-ts-dacs.github.io/dacs/06_part_I/02_chapter_01.html#single-level-required) required elements. DACSspace utilizes the ArchivesSpace API to check resources for DACS compliance and produces a csv containing a list of evaluated resources. If a DACS field is present its content will be written to the csv, if a field is missing the csv will read &quot;FALSE&quot; for that item.
 * Digital Media Logging Tools:
   - [NYU Libraries Media Log](https://github.com/NYU-ACM/medialog) (New York University): This is a basic app for capturing information about media being imaged.
   - [Rockefeller Archive Center&#39;s Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
