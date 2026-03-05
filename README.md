@@ -136,6 +136,7 @@ The links below relate to ArchivesSpace plug-in projects. **Proceed with caution
 ### Administration
 
 * [Accessions summary reports](https://github.com/hudmol/accessions_summary_reports) (Hudson Molonglo): An ArchivesSpace plugin that provides summary reports on Accessions.
+* [Digitization Work Order](https://github.com/hudmol/digitization_work_order) (Hudson Molonglo): An ArchivesSpace plugin that provides downloadable reports (TSV or XLSX) for sets of components under a resource, for the purpose of creating digitization work orders. Supports ArchivesSpace v1.5.x to v4.0.x. Developed for New York University and Yale University.
 * [Extended Reports](https://github.com/quoideneuf/extended_reports) (Brian Hoffman): Add customized reports to ArchivesSpace.
 
 ### Authentication
@@ -166,7 +167,8 @@ The links below relate to ArchivesSpace plug-in projects. **Proceed with caution
 * [Archival Object\_MODS](https://github.com/duspeccoll/ao_mods) (Denver University Libraries): This plugin allows users to download MODS representations of Archival Objects in ArchivesSpace. On the backend, there is an API call allowing the direct download of a MODS representation of any Archival Object as well as the metadata for that MODS representation, similar to the MODS export for Digital Object records.
 * [Autogenerate DOIDs](https://github.com/lorawoodford/autogenerate-doid) (Lora Woodford): This plugin auto-generates an identifier for Digital Objects created in staff mode (frontend).
 * [Manager User Defined Fields](https://github.com/osulibraries/manage_user_defined_fields) (Ohio State University): This ArchivesSpace plugin hides any user defined fields that are default or not used for the specific type of item being created/edited.
-* [PBSpace](https://github.com/WGBH-MLA/pbspace) (Jason Corum, WGBH Media Library and Archives): This plugin adds new properties and object relationships in the application so that PBCore structure, elements, and attributes can be better represented in ArchivesSpace. PBCore is a data model for the description of audiovisual content.  
+* [PBSpace](https://github.com/WGBH-MLA/pbspace) (Jason Corum, WGBH Media Library and Archives): This plugin adds new properties and object relationships in the application so that PBCore structure, elements, and attributes can be better represented in ArchivesSpace. PBCore is a data model for the description of audiovisual content.
+* [ArchivesSpace Content Warnings](https://github.com/dartmouth-dltg/aspace_content_warnings) (Joshua Shaw, Dartmouth College): Adds a content warning sub-record to Accessions, Resources, Archival Objects, Digital Objects, and Digital Object Components. Warnings are displayed in the PUI with tag-based UI and inheritance from ancestor records. Includes modified EAD, EAD3, MARC, and PDF exports, optional faceting, and a report on applied warnings. Supports ArchivesSpace 3.1.1+.
 * [css stylesheet](https://github.com/YaleArchivesSpace/print) (Yale University): for the staff interface.
 * [Donor Details Plugin](http://archival-integration.blogspot.com/2015/07/archivesspace-donor-details-plugin.html) (Bentley Historical Library): Blog post that discusses the Bentley's Donor Details plugin. Includes links to the plugin code.
 * [Accession Identifier Generator](https://github.com/UNC-Libraries/aspace-accession-identifiers) (UNC Chapel Hill Libraries): Creates controlled value list for accession identifier component 1 and auto-generates accession identifier component 2.
