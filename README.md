@@ -137,7 +137,7 @@ The links below relate to ArchivesSpace plug-in projects. **Proceed with caution
 
 ### Authentication
 
-* [Oauth plug-in](https://github.com/lyrasis/aspace-oauth) (Mark Cooper/LYRASIS, supports most recent release - see [aspace-oauth Tags](https://github.com/lyrasis/aspace-oauth/tags) for list of compatible versions): Configure ArchivesSpace as a service provider for oauth user authentication.
+* [Oauth plug-in](https://github.com/lyrasis/aspace-oauth) (Mark Cooper/LYRASIS, supports most recent release - 4.2.0 as of 2026) - see [aspace-oauth Tags](https://github.com/lyrasis/aspace-oauth/tags) for list of compatible versions): Configure ArchivesSpace as a service provider for oauth user authentication.
 * [ArchivesSpace authentication with OmniAuth/CAS](https://github.com/dartmouth-dltg/aspace-omniauth-cas) (Dartmouth University, supports v 3.1.0 through 4.1.0 - see [version comments](https://github.com/dartmouth-dltg/aspace-omniauth-cas/issues/6#issuecomment-3767823058) for more info on compatibility with v < 4.x): An ArchivesSpace plugin to provide OmniAuth/CAS single-sign-on authentication.
 
 ### Additional Back-end Functionality
